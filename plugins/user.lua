@@ -9,4 +9,8 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  {
+    "ChristianChiarulli/swenv.nvim",
+    "stevearc/dressing.nvim"
+  }
 }
