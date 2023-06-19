@@ -11,6 +11,7 @@ return {
   -- },
   {
     "ChristianChiarulli/swenv.nvim",
-    "stevearc/dressing.nvim"
+    "stevearc/dressing.nvim",
+    "ojroques/nvim-osc52"
   }
 }
