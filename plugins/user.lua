@@ -17,5 +17,8 @@ return {
     "AstroNvim/astrocommunity",
     { import = "astrocommunity.diagnostics.trouble-nvim" },
   },
-  { "catppuccin/nvim", name = "catppuccin", priority = 1000 }
+  { "catppuccin/nvim", name = "catppuccin", priority = 1000 },
+  {
+    "christoomey/vim-tmux-navigator"
+  }
 }
