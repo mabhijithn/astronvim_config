@@ -12,5 +12,9 @@ return {
   {
     "ChristianChiarulli/swenv.nvim",
     "stevearc/dressing.nvim"
+  },
+  {
+    "AstroNvim/astrocommunity",
+    { import = "astrocommunity.diagnostics.trouble-nvim" },
   }
 }
