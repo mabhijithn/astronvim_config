@@ -11,7 +11,10 @@ return {
   -- },
   {
     "ChristianChiarulli/swenv.nvim",
-    "stevearc/dressing.nvim",
-    "ojroques/nvim-osc52"
+    "stevearc/dressing.nvim"
+  },
+  {
+    "AstroNvim/astrocommunity",
+    { import = "astrocommunity.diagnostics.trouble-nvim" },
   }
 }
